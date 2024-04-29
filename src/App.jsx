@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import HeroSection from './components/HeroSection'
 import Navigation from './components/Navigations'
 
 function App() {
@@ -7,9 +8,7 @@ function App() {
   return (
     <>
       <Navigation />
-      <header>
-        <h1>Welcome to Bertungku</h1>
-      </header>
+      <HeroSection />
       
     </>
   )
