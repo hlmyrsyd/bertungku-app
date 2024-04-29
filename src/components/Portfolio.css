@@ -1,0 +1,12 @@
+.portfolio {
+    margin: 50px;
+}
+
+.portfolio h1 {
+    text-align: left;
+}
+
+.card-container {
+    display: flex; /* Use flexbox to create a row layout */
+    justify-content: space-between; /* Distribute space between items */
+}

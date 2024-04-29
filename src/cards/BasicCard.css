@@ -1,0 +1,32 @@
+.basic-card {
+    display: flex;
+    flex-direction: column; /* Arrange content vertically */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px; /* Add margin around each card */
+}  
+
+.basic-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    box-sizing: border-box; /* Include padding and border in the width calculation */
+    overflow: hidden;
+}
+
+.basic-card div {
+    padding: 20px;
+}
+
+.basic-card h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.basic-card p {
+    margin: 10px 0 0;
+    font-size: 14px;
+    color: #666;
+}
