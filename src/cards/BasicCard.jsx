@@ -4,11 +4,11 @@ import './BasicCard.css'
 function BasicCard({ title, location, imageUrl }) {
     return (
         <div className="basic-card">
-        <img src={imageUrl} alt={title} />
-        <div>
-            <h2>{title}</h2>
-            <p>{location}</p>
-        </div>
+            <img src={imageUrl} alt={title} />
+            <div>
+                <h2>{title}</h2>
+                <p>{location}</p>
+            </div>
         </div>
     );
 }

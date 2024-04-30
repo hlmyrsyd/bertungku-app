@@ -5,12 +5,12 @@
     padding: 20px;
 }
 
-.logo {
+.navigation .logo {
     flex: 1;
     text-align: left;
 }
 
-.logo img {
+.navigation .logo img {
     width: 60px; /* Adjust as needed */
 }
 
