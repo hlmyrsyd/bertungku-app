@@ -5,7 +5,7 @@ function BasicCard({ title, location, imageUrl }) {
     return (
         <div className="basic-card">
             <img src={imageUrl} alt={title} />
-            <div>
+            <div className="content">
                 <h2>{title}</h2>
                 <p>{location}</p>
             </div>

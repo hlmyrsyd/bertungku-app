@@ -30,3 +30,14 @@
     font-size: 14px;
     color: #666;
 }
+
+@media screen and (max-width: 768px) {
+    .basic-card {
+        margin: 0px;
+    }
+
+    .basic-card .content {
+        margin: 0;
+        padding: 0;
+    }
+}
