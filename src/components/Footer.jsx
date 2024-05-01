@@ -6,10 +6,10 @@ function Footer() {
         <footer className="footer">
             <div className='upper-container'>
                 <h1>Feel free to reach us. <br></br>We don't bite</h1>
-                <div className='social'>
+                <div id='book-now' className='social'>
                     <div className='whatsapp'>
                         <h3>Whatsapp :</h3>
-                        <a href="https://api.whatsapp.com/send?phone=6281559908406">+6281 2345 6789</a>
+                        <a href="https://api.whatsapp.com/send?phone=6285159832665">+62851 5983 2665</a>
                     </div>
                     <div className='email'>
                         <h3>Email :</h3>

@@ -4,7 +4,7 @@ import './Portfolio.css'
 
 function Portfolio() {
     return (
-        <div className="portfolio">
+        <div id='portfolio' className="portfolio">
             <h1>Our Latest Works</h1>
             <div className="card-container">
                 <BasicCard

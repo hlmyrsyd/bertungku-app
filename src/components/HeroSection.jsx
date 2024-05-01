@@ -28,7 +28,7 @@ function HeroSection() {
     }, [images.length]);
 
     return (
-        <section className="hero">
+        <section id='home' className="hero">
             <div className="hero-text">
                 <h1>Welcome to Bertungku</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
