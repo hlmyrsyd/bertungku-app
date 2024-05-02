@@ -10,17 +10,17 @@ function Portfolio() {
                 <BasicCard
                 title="Mr LY"
                 location="Dago, Bandung"
-                imageUrl="/card-image/project1.png"
+                imageUrl="/card-image/project1.webp"
                 />
                 <BasicCard
                 title="Mrs VV"
                 location="KBP, Bandung"
-                imageUrl="/card-image/project2.png"
+                imageUrl="/card-image/project2.webp"
                 />
                 <BasicCard
                 title="Mr TR"
                 location="Summarecon,Bandung"
-                imageUrl="/card-image/project3.png"
+                imageUrl="/card-image/project3.webp"
                 />
             </div>
         </div>

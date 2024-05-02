@@ -5,18 +5,18 @@ import './HeroSection.css'
 function HeroSection() {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
     const images = [
-        "/hero-image/kitchen1-1.png",
-        "/hero-image/kitchen1-2.png",
-        "/hero-image/kitchen1-3.png",
-        "/hero-image/kitchen1-4.png",
-        "/hero-image/kitchen1-5.png",
-        "/hero-image/kitchen1-6.png",
-        "/hero-image/kitchen2-1.png",
-        "/hero-image/kitchen2-2.png",
-        "/hero-image/kitchen2-3.png",
-        "/hero-image/kitchen2-4.png",
-        "/hero-image/kitchen2-5.png",
-        "/hero-image/kitchen2-6.png",
+        "/hero-image/kitchen1-1.webp",
+        "/hero-image/kitchen1-2.webp",
+        "/hero-image/kitchen1-3.webp",
+        "/hero-image/kitchen1-4.webp",
+        "/hero-image/kitchen1-5.webp",
+        "/hero-image/kitchen1-6.webp",
+        "/hero-image/kitchen2-1.webp",
+        "/hero-image/kitchen2-2.webp",
+        "/hero-image/kitchen2-3.webp",
+        "/hero-image/kitchen2-4.webp",
+        "/hero-image/kitchen2-5.webp",
+        "/hero-image/kitchen2-6.webp",
     ];
 
     useEffect(() => {
