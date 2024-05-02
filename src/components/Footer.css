@@ -62,3 +62,17 @@
     width: 40px; 
 }
 
+@media screen and (max-width: 768px) {
+    .upper-container {
+        margin: 0 20px;
+    }
+
+    .under-container p {
+        margin: 0 20px;
+        font-size: .75rem;
+    }
+
+    .under-container .logo {
+        display: none;
+    }
+}
