@@ -5,7 +5,7 @@ function Navigation() {
     return (
         <nav className='navigation'>
             <div className='logo'>
-                <img src="src\assets\bertungku-logo.png" alt="bertungku logo" />
+                <img src="/bertungku-logo.png" alt="bertungku logo" />
             </div>
             <ul className="nav-links">
                 <li><a href="#home">Home</a></li>

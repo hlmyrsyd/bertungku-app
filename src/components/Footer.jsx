@@ -23,7 +23,7 @@ function Footer() {
             </div>
             <div className="under-container">
                 <div className='logo'>
-                    <img src="src\assets\bertungku-logo.png" alt="bertungku logo" />
+                    <img src="/bertungku-logo.png" alt="bertungku logo" />
                     <h4>Bertungku by Hilmy Rasyad</h4>
                 </div>
                 <p>&copy; 2024 Bertungku. All rights reserved.</p>
