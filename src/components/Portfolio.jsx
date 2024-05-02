@@ -8,18 +8,18 @@ function Portfolio() {
             <h1>Our Latest Works</h1>
             <div className="card-container">
                 <BasicCard
-                title="Project 1"
-                location="Jakarta"
+                title="Mr LY"
+                location="Dago, Bandung"
                 imageUrl="../src/assets/card-image/project1.png"
                 />
                 <BasicCard
-                title="Project 2"
-                location="Jakarta"
+                title="Mrs VV"
+                location="KBP, Bandung"
                 imageUrl="../src/assets/card-image/project2.png"
                 />
                 <BasicCard
-                title="Project 3"
-                location="Jakarta"
+                title="Mr TR"
+                location="Summarecon,Bandung"
                 imageUrl="../src/assets/card-image/project3.png"
                 />
             </div>
